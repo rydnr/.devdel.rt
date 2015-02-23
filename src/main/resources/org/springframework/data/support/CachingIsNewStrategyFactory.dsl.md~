@@ -1,0 +1,4 @@
+license: GPL
+package: org.springframework.data.support
+requires: org.jetbrains.annotations
+isThreadSafe: true

@@ -1,0 +1,44 @@
+* Cache for IsNewStrategyFactory instances
+
+The IsNewStrategyFactory is responsible of creating IsNewStrategy instances,
+for a given Class. The resulting instances are suitable of being cached:
+- They are immutable and stateless.
+- They get instantiated via reflection, which is an expensive operation.
+
+** Simple proposal: CachingIsNewStrategyFactory
+
+The most straight-forward approach is by using a Delegate pattern: an envelop that adds
+a cache, and only performs the actual instantiation upon a cache miss.
+
+This means defining a new class CachingIsNewStrategyFactory, which implements IsNewStrategyFactory,
+to cache resolved {@link IsNewStrategy} instances per type to avoid re-resolving them on each an every request.
+
+The new class must behave exactly as a regular IsNewStrategyFactory, so it has to implement
+IsNewStrategyFactory's method definitions.
+
+In this case, we only have to implement a method called getIsNewStrategy(Class<?>). Our purpose is simple:
+1. Check if the strategy instance is already cached.
+2. If it's cached, return the cached instance.
+3. Otherwise, find out how to perform the expected instantiation, cache the outcome, and return it.
+
+Obviously, we need a cache: a Map<Class<?>, IsNewStrategy> of type ConcurrentHashMap would fit our requirements,
+since we expect concurrent access to the cache.
+
+But we need also to wrap an actual IsNewFactoryStrategyFactory, and we want this class to be immutable (from the outside world, even
+though the cache itself is mutable).
+
+*** getIsNewStrategy(Class<?> type)
+        returns the already cached strategy for given type,
+        otherwise uses a IsNewStrategyFactory delegate to create a new strategy {
+            and therefore we need such delegate to be an instance attribute,
+            as well as define a non-default constructor with a IsNewStrategyFactory delegate {
+                asserts delegate is not null
+                annotates the delegate as an instance attribute {
+                    declares the delegate attribute
+                }
+            }
+        }
+        caches it,
+        and returns it.
+    }
+}

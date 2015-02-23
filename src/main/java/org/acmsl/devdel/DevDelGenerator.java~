@@ -1,0 +1,33 @@
+package org.acmsl.devdel;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
+import org.junit.Assert;
+import org.junit.Test;
+
+import org.jetbrains.annotations.NotNull;
+
+public class STRetriever {
+
+    /**
+     * Retrieves the template whose annotations match given text.
+     * @param text the text.
+     * @return 
+     */
+    public ST findMatchingTemplate(@NotNull final String text) {
+
+        @NotNull final STGroup stGroup =
+            new STString(
+                  "@MyKeyword(\"A (.*) paragraph.\")\n"
+                + "par(type) ::= <<\n"
+                + "A \\<b><type>\\</b> paragraph.\n"
+                + ">>\n");
+
+        @NotNull final STRetriever retriever = new STRetriever("MyKeyword");
+
+        @NotNull final ST template =
+            retriever.findMatchingTemplate("A very simple paragraph.");
+
+        Assert.assertNotNull(template);
+    }
+}

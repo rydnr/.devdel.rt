@@ -1,0 +1,30 @@
+package org.acmsl.devdel;
+
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
+import org.junit.Assert;
+import org.junit.Test;
+
+import org.jetbrains.annotations.NotNull;
+
+@RunWith(JUnit4.class)
+public class STRetrieverTest {
+
+    @Test
+    public void retrieves_all_st_for_a_keyword() {
+
+        @NotNull final STGroup stGroup =
+            new STString(
+                  "@MyKeyword(\"A (.*) paragraph.\")\n"
+                + "par(type) ::= <<\n"
+                + "A \\<b><type>\\</b> paragraph.\n"
+                + ">>\n");
+
+        @NotNull final STRetriever retriever = new STRetriever("MyKeyword");
+
+        @NotNull final ST template =
+            retriever.findMatchingTemplate("A very simple paragraph.");
+
+        Assert.assertNotNull(template);
+    }
+}

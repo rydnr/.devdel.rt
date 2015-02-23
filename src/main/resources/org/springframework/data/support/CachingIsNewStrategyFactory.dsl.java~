@@ -1,0 +1,4 @@
+license: Apache 2.0
+author: Oliver Gierke
+package: org.springframework.data.support
+isClass: true
