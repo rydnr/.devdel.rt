@@ -16,7 +16,7 @@ to cache resolved {@link IsNewStrategy} instances per type to avoid re-resolving
 The new class must behave exactly as a regular IsNewStrategyFactory, so it has to implement
 IsNewStrategyFactory's method definitions. Any client using instances of this class shouldn't notice any difference.
 
-In this case, we only have to implement a method called getIsNewStrategy(Class<?>). Our purpose is simple:
+We only have to implement a method called getIsNewStrategy(Class<?>). Our purpose is simple:
 1. Check if the strategy instance is already cached.
 2. If it's cached, return the cached instance.
 3. Otherwise, find out how to perform the expected instantiation, cache the outcome, and return it.
