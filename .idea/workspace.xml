@@ -195,10 +195,10 @@
       <file leaf-file-name="STAnnotated.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5064935" vertical-offset="3196" max-vertical-offset="4544">
-              <caret line="287" column="39" selection-start-line="287" selection-start-column="39" selection-end-line="287" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.4025974" vertical-offset="3292" max-vertical-offset="4560">
+              <caret line="287" column="61" selection-start-line="287" selection-start-column="9" selection-end-line="287" selection-end-column="9" />
               <folding>
-                <element signature="e#0#8429#0" expanded="true" />
+                <element signature="e#0#8495#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -246,10 +246,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotatedGroup.java" />
-        <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java" />
         <option value="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
+        <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
       </list>
     </option>
   </component>
@@ -565,12 +565,12 @@
       <workItem from="1424508853958" duration="4660000" />
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
-      <workItem from="1424672195547" duration="1421000" />
+      <workItem from="1424672195547" duration="1460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8310000" />
+    <option name="totallyTimeSpent" value="8349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -775,7 +775,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="4016">
           <caret line="35" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#0#8429#0" expanded="true" />
+            <element signature="e#0#8495#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -934,7 +934,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="4016">
           <caret line="35" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#0#8429#0" expanded="true" />
+            <element signature="e#0#8495#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1093,7 +1093,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="83" max-vertical-offset="5520">
           <caret line="35" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="e#0#8429#0" expanded="true" />
+            <element signature="e#0#8495#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1296,10 +1296,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5064935" vertical-offset="3196" max-vertical-offset="4544">
-          <caret line="287" column="39" selection-start-line="287" selection-start-column="39" selection-end-line="287" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.4025974" vertical-offset="3292" max-vertical-offset="4560">
+          <caret line="287" column="61" selection-start-line="287" selection-start-column="9" selection-end-line="287" selection-end-column="9" />
           <folding>
-            <element signature="e#0#8429#0" expanded="true" />
+            <element signature="e#0#8495#0" expanded="true" />
           </folding>
         </state>
       </provider>
