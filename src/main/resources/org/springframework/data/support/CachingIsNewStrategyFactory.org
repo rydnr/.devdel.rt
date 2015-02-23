@@ -33,20 +33,8 @@ The idea is, as described above, to gradually fill the cache with IsNewStrategy 
 a while all required strategy instances are already instantiated, effectively bypassing the reflection logic.
 Keep in mind that if the cached object gets stale, with this simple implementation we won't refresh it.
 
+First, we check whether the cache contains a cached instance associated to our Class value. If it doesn't, we use
+our wrapped factory to perform the actual operation.
+
 We assume that, in this Map-based implementation, the cost of calling Map.put() is not significant, and therefore
 we can cache the resulting instance regardless of if it was already in the cache or not.
-
-        returns the already cached strategy for given type,
-        otherwise uses a IsNewStrategyFactory delegate to create a new strategy {
-            and therefore we need such delegate to be an instance attribute,
-            as well as define a non-default constructor with a IsNewStrategyFactory delegate {
-                asserts delegate is not null
-                annotates the delegate as an instance attribute {
-                    declares the delegate attribute
-                }
-            }
-        }
-        caches it,
-        and returns it.
-    }
-}
