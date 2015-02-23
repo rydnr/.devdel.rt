@@ -10,7 +10,7 @@ for a given Class. The resulting instances are suitable of being cached:
 The most straight-forward approach is by using a Delegate pattern: an envelop that adds
 a cache, and only performs the actual instantiation upon a cache miss.
 
-This means defining a new class CachingIsNewStrategyFactory, which implements IsNewStrategyFactory,
+We start by defining a new class CachingIsNewStrategyFactory, which implements IsNewStrategyFactory,
 to cache resolved {@link IsNewStrategy} instances per type to avoid re-resolving them on each an every request.
 
 The new class must behave exactly as a regular IsNewStrategyFactory, so it has to implement
