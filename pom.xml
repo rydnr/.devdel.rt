@@ -61,6 +61,12 @@
     <dependency>
       <groupId>org.acmsl</groupId>
       <artifactId>java-commons</artifactId>
+      <exclusions>
+        <exclusion>
+          <groupId>org.stringtemplate</groupId>
+          <artifactId>ST4</artifactId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>commons-logging</groupId>
