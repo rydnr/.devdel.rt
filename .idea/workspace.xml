@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CachingIsNewStrategyFactoryTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CachingIsNewStrategyFactoryTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/acmsl/devdel/CachingIsNewStrategyFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="688">
+            <state vertical-scroll-proportion="0.75189394" vertical-offset="147" max-vertical-offset="688">
               <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
@@ -176,11 +176,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="STAnnotation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="STAnnotation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5027726" vertical-offset="1216" max-vertical-offset="3120">
-              <caret line="102" column="96" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1216" max-vertical-offset="3120">
+              <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
                 <element signature="e#0#5233#0" expanded="true" />
               </folding>
@@ -191,7 +191,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../stringtemplate4" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -549,12 +549,12 @@
       <workItem from="1424508853958" duration="4660000" />
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
-      <workItem from="1424672195547" duration="1986000" />
+      <workItem from="1424672195547" duration="2029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8875000" />
+    <option name="totallyTimeSpent" value="8918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -1048,21 +1048,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/acmsl/devdel/CachingIsNewStrategyFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="688">
-          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5027726" vertical-offset="1216" max-vertical-offset="3120">
-          <caret line="102" column="96" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1216" max-vertical-offset="3120">
+          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="e#0#5233#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/acmsl/devdel/CachingIsNewStrategyFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75189394" vertical-offset="147" max-vertical-offset="688">
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
