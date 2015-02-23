@@ -59,10 +59,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CachingIsNewStrategyFactoryTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CachingIsNewStrategyFactoryTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/acmsl/devdel/CachingIsNewStrategyFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75189394" vertical-offset="147" max-vertical-offset="688">
+            <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="688">
               <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
@@ -176,13 +176,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="STAnnotation.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="STAnnotation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1456" max-vertical-offset="3120">
-              <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5027726" vertical-offset="1216" max-vertical-offset="3120">
+              <caret line="102" column="96" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding>
-                <element signature="e#0#5214#0" expanded="true" />
+                <element signature="e#0#5233#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -191,16 +191,16 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../stringtemplate4" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotatedGroup.java" />
-        <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java" />
         <option value="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
+        <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
       </list>
     </option>
   </component>
@@ -549,16 +549,16 @@
       <workItem from="1424508853958" duration="4660000" />
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
-      <workItem from="1424672195547" duration="1943000" />
+      <workItem from="1424672195547" duration="1986000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8832000" />
+    <option name="totallyTimeSpent" value="8875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -569,7 +569,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39937434" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39937434" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BSFConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -735,7 +735,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2496" max-vertical-offset="5520">
           <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
           <folding>
-            <element signature="e#0#5214#0" expanded="true" />
+            <element signature="e#0#5233#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -835,7 +835,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2496" max-vertical-offset="5520">
           <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
           <folding>
-            <element signature="e#0#5214#0" expanded="true" />
+            <element signature="e#0#5233#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -935,7 +935,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="496" max-vertical-offset="3584">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#0#5214#0" expanded="true" />
+            <element signature="e#0#5233#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1023,16 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1456" max-vertical-offset="3120">
-          <caret line="111" column="0" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#5214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2172" max-vertical-offset="4560">
@@ -1060,9 +1050,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/acmsl/devdel/CachingIsNewStrategyFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75189394" vertical-offset="147" max-vertical-offset="688">
+        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="688">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5027726" vertical-offset="1216" max-vertical-offset="3120">
+          <caret line="102" column="96" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5233#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
