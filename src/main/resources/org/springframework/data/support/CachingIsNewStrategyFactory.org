@@ -25,7 +25,7 @@ Obviously, we need a cache: a Map<Class<?>, IsNewStrategy> of type ConcurrentHas
 since we expect concurrent access to the cache.
 
 But we need also to wrap an actual IsNewFactoryStrategyFactory, and we want this class to be immutable (from the outside world, even
-though the cache itself is mutable).
+though the cache itself is stateful).
 
 *** getIsNewStrategy(Class<?> type)
         returns the already cached strategy for given type,
