@@ -59,6 +59,10 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.acmsl</groupId>
+      <artifactId>java-commons</artifactId>
+    </dependency>
+    <dependency>
       <groupId>commons-logging</groupId>
       <artifactId>commons-logging</artifactId>
     </dependency>
