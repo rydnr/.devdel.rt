@@ -30,7 +30,7 @@ though the cache itself is stateful).
 *** getIsNewStrategy(Class<?> type)
 
 The idea is, as described above, to gradually fill the cache with IsNewStrategy instances, so after
-a while all required strategy instances are already instantiated, and thus we bypass the reflection logic.
+a while all required strategy instances are already instantiated, effectively bypassing the reflection logic.
 Keep in mind that if the cached object gets stale, with this simple implementation we won't refresh it.
 
 
