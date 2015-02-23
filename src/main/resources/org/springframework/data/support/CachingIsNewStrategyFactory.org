@@ -38,3 +38,5 @@ our wrapped factory to perform the actual operation.
 
 We assume that, in this Map-based implementation, the cost of calling Map.put() is not significant, and therefore
 we can cache the resulting instance regardless of if it was already in the cache or not.
+
+Finally, we just return the new strategy instance.
