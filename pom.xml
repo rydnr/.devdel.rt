@@ -63,7 +63,7 @@
       <artifactId>java-commons</artifactId>
       <exclusions>
         <exclusion>
-          <groupId>org.stringtemplate</groupId>
+          <groupId>org.antlr</groupId>
           <artifactId>ST4</artifactId>
         </exclusion>
       </exclusions>
