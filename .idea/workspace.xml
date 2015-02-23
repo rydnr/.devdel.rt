@@ -12,6 +12,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devdel.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" afterPath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
     </list>
     <ignored path="devdel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,15 +60,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DevDelGenerator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DevDelGenerator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.530303" vertical-offset="1222" max-vertical-offset="2176">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1222" max-vertical-offset="2176">
               <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="133" selection-end-column="22" />
               <folding>
                 <element signature="e#0#3634#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSTAnnotatedGroup.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="620" max-vertical-offset="1696">
+              <caret line="101" column="68" selection-start-line="101" selection-start-column="66" selection-end-line="101" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,8 +191,8 @@
       <file leaf-file-name="STAnnotated.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="4560">
-              <caret line="34" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="4544">
+              <caret line="32" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
                 <element signature="e#2335#2336#0" expanded="false" />
@@ -214,8 +227,8 @@
                 <element signature="e#5682#5683#0" expanded="false" />
                 <element signature="e#5765#5766#0" expanded="false" />
                 <element signature="e#5816#5817#0" expanded="false" />
-                <element signature="e#8482#8483#0" expanded="false" />
-                <element signature="e#8530#8531#0" expanded="false" />
+                <element signature="e#8377#8378#0" expanded="false" />
+                <element signature="e#8425#8426#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -245,19 +258,19 @@
       <file leaf-file-name="STAnnotation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="3104">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="3120">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="false" />
                 <element signature="e#2285#2286#0" expanded="false" />
                 <element signature="e#2308#2309#0" expanded="false" />
                 <element signature="e#2402#2403#0" expanded="false" />
                 <element signature="e#2426#2427#0" expanded="false" />
-                <element signature="e#3025#3033#0" expanded="false" />
-                <element signature="e#4846#4847#0" expanded="false" />
-                <element signature="e#4938#4939#0" expanded="false" />
-                <marker date="1424690849771" expanded="true" signature="772:929" placeholder="/**...*/" />
-                <marker date="1424690849771" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+                <element signature="e#4802#4803#0" expanded="false" />
+                <element signature="e#4894#4895#0" expanded="false" />
+                <marker date="1424691345155" expanded="true" signature="772:929" placeholder="/**...*/" />
+                <marker date="1424691345155" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+                <marker date="1424691345155" expanded="false" signature="3032:3040" placeholder="&lt;~&gt;" />
               </folding>
             </state>
           </provider>
@@ -266,7 +279,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../stringtemplate4" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -275,6 +288,7 @@
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
         <option value="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java" />
+        <option value="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
       </list>
     </option>
   </component>
@@ -325,6 +339,56 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="devdel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devdel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stringtemplate4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devdel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stringtemplate4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="devdel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stringtemplate4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="annotations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -522,16 +586,16 @@
       <workItem from="1424508853958" duration="4660000" />
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
-      <workItem from="1424672195547" duration="1066000" />
+      <workItem from="1424672195547" duration="1083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7955000" />
+    <option name="totallyTimeSpent" value="7972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -553,7 +617,7 @@
       <window_info id="Minimized stickies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Log4jMonitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21898597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21898597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -765,8 +829,8 @@
             <element signature="e#5682#5683#0" expanded="false" />
             <element signature="e#5765#5766#0" expanded="false" />
             <element signature="e#5816#5817#0" expanded="false" />
-            <element signature="e#8482#8483#0" expanded="false" />
-            <element signature="e#8530#8531#0" expanded="false" />
+            <element signature="e#8377#8378#0" expanded="false" />
+            <element signature="e#8425#8426#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -800,11 +864,11 @@
             <element signature="e#2308#2309#0" expanded="false" />
             <element signature="e#2402#2403#0" expanded="false" />
             <element signature="e#2426#2427#0" expanded="false" />
-            <element signature="e#3025#3033#0" expanded="false" />
-            <element signature="e#4846#4847#0" expanded="false" />
-            <element signature="e#4938#4939#0" expanded="false" />
-            <marker date="1424690849771" expanded="true" signature="772:929" placeholder="/**...*/" />
-            <marker date="1424690849771" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <element signature="e#4802#4803#0" expanded="false" />
+            <element signature="e#4894#4895#0" expanded="false" />
+            <marker date="1424691345155" expanded="true" signature="772:929" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="false" signature="3032:3040" placeholder="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -967,8 +1031,8 @@
             <element signature="e#5682#5683#0" expanded="false" />
             <element signature="e#5765#5766#0" expanded="false" />
             <element signature="e#5816#5817#0" expanded="false" />
-            <element signature="e#8482#8483#0" expanded="false" />
-            <element signature="e#8530#8531#0" expanded="false" />
+            <element signature="e#8377#8378#0" expanded="false" />
+            <element signature="e#8425#8426#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1002,11 +1066,11 @@
             <element signature="e#2308#2309#0" expanded="false" />
             <element signature="e#2402#2403#0" expanded="false" />
             <element signature="e#2426#2427#0" expanded="false" />
-            <element signature="e#3025#3033#0" expanded="false" />
-            <element signature="e#4846#4847#0" expanded="false" />
-            <element signature="e#4938#4939#0" expanded="false" />
-            <marker date="1424690849771" expanded="true" signature="772:929" placeholder="/**...*/" />
-            <marker date="1424690849771" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <element signature="e#4802#4803#0" expanded="false" />
+            <element signature="e#4894#4895#0" expanded="false" />
+            <marker date="1424691345155" expanded="true" signature="772:929" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="false" signature="3032:3040" placeholder="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -1169,8 +1233,8 @@
             <element signature="e#5682#5683#0" expanded="false" />
             <element signature="e#5765#5766#0" expanded="false" />
             <element signature="e#5816#5817#0" expanded="false" />
-            <element signature="e#8482#8483#0" expanded="false" />
-            <element signature="e#8530#8531#0" expanded="false" />
+            <element signature="e#8377#8378#0" expanded="false" />
+            <element signature="e#8425#8426#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1204,11 +1268,11 @@
             <element signature="e#2308#2309#0" expanded="false" />
             <element signature="e#2402#2403#0" expanded="false" />
             <element signature="e#2426#2427#0" expanded="false" />
-            <element signature="e#3025#3033#0" expanded="false" />
-            <element signature="e#4846#4847#0" expanded="false" />
-            <element signature="e#4938#4939#0" expanded="false" />
-            <marker date="1424690849771" expanded="true" signature="772:929" placeholder="/**...*/" />
-            <marker date="1424690849771" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <element signature="e#4802#4803#0" expanded="false" />
+            <element signature="e#4894#4895#0" expanded="false" />
+            <marker date="1424691345155" expanded="true" signature="772:929" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="false" signature="3032:3040" placeholder="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
@@ -1350,27 +1414,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="3104">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="128" max-vertical-offset="3120">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
             <element signature="e#2285#2286#0" expanded="false" />
             <element signature="e#2308#2309#0" expanded="false" />
             <element signature="e#2402#2403#0" expanded="false" />
             <element signature="e#2426#2427#0" expanded="false" />
-            <element signature="e#3025#3033#0" expanded="false" />
-            <element signature="e#4846#4847#0" expanded="false" />
-            <element signature="e#4938#4939#0" expanded="false" />
-            <marker date="1424690849771" expanded="true" signature="772:929" placeholder="/**...*/" />
-            <marker date="1424690849771" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <element signature="e#4802#4803#0" expanded="false" />
+            <element signature="e#4894#4895#0" expanded="false" />
+            <marker date="1424691345155" expanded="true" signature="772:929" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="true" signature="1372:1526" placeholder="/**...*/" />
+            <marker date="1424691345155" expanded="false" signature="3032:3040" placeholder="&lt;~&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="4560">
-          <caret line="34" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="512" max-vertical-offset="4544">
+          <caret line="32" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
             <element signature="e#2335#2336#0" expanded="false" />
@@ -1405,20 +1469,28 @@
             <element signature="e#5682#5683#0" expanded="false" />
             <element signature="e#5765#5766#0" expanded="false" />
             <element signature="e#5816#5817#0" expanded="false" />
-            <element signature="e#8482#8483#0" expanded="false" />
-            <element signature="e#8530#8531#0" expanded="false" />
+            <element signature="e#8377#8378#0" expanded="false" />
+            <element signature="e#8425#8426#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.530303" vertical-offset="1222" max-vertical-offset="2176">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1222" max-vertical-offset="2176">
           <caret line="113" column="10" selection-start-line="113" selection-start-column="10" selection-end-line="133" selection-end-column="22" />
           <folding>
             <element signature="e#0#3634#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="620" max-vertical-offset="1696">
+          <caret line="101" column="68" selection-start-line="101" selection-start-column="66" selection-end-line="101" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
