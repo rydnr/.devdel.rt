@@ -12,6 +12,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devdel.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" afterPath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
@@ -582,12 +584,12 @@
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
       <workItem from="1424672195547" duration="3739000" />
-      <workItem from="1424776776539" duration="676000" />
+      <workItem from="1424776776539" duration="680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11304000" />
+    <option name="totallyTimeSpent" value="11308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5760" y="0" width="1914" height="1074" extended-state="0" />
