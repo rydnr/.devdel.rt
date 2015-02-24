@@ -30,6 +30,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="devdel" target="1.7" />
+      <module name="javacss" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
