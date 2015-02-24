@@ -24,6 +24,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="devdel" />
+        <module name="javacss" />
         <module name="ST4-rydnr" />
       </profile>
     </annotationProcessing>

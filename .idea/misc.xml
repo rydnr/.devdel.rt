@@ -41,6 +41,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../stringtemplate4/pom.xml" />
+        <option value="$PROJECT_DIR$/../JavaCSS/pom.xml" />
       </list>
     </option>
   </component>

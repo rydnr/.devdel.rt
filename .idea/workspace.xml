@@ -26,6 +26,10 @@
     <ignored path="$PROJECT_DIR$/../stringtemplate4/target/maven-status/" />
     <ignored path="$PROJECT_DIR$/target/maven-archiver/" />
     <ignored path="$PROJECT_DIR$/target/failsafe-reports/" />
+    <ignored path="$PROJECT_DIR$/../JavaCSS/target/maven-archiver/" />
+    <ignored path="$PROJECT_DIR$/../JavaCSS/target/failsafe-reports/" />
+    <ignored path="$PROJECT_DIR$/../JavaCSS/target/surefire-reports/" />
+    <ignored path="$PROJECT_DIR$/../JavaCSS/target/maven-status/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -415,7 +419,7 @@
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stringtemplate4/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaCSS/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -578,12 +582,12 @@
       <workItem from="1424591266563" duration="954000" />
       <workItem from="1424626039282" duration="1275000" />
       <workItem from="1424672195547" duration="3739000" />
-      <workItem from="1424776776539" duration="593000" />
+      <workItem from="1424776776539" duration="676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11221000" />
+    <option name="totallyTimeSpent" value="11304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5760" y="0" width="1914" height="1074" extended-state="0" />

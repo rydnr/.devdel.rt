@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../stringtemplate4/ST4-rydnr.iml" filepath="$PROJECT_DIR$/../stringtemplate4/ST4-rydnr.iml" />
       <module fileurl="file://$PROJECT_DIR$/devdel.iml" filepath="$PROJECT_DIR$/devdel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaCSS/javacss.iml" filepath="$PROJECT_DIR$/../JavaCSS/javacss.iml" />
     </modules>
   </component>
 </project>
