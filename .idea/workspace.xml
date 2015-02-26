@@ -84,26 +84,16 @@
       <file leaf-file-name="ASTHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61623615" vertical-offset="1026" max-vertical-offset="1568">
-              <caret line="85" column="109" selection-start-line="85" selection-start-column="109" selection-end-line="85" selection-end-column="109" />
+            <state vertical-scroll-proportion="0.7896679" vertical-offset="932" max-vertical-offset="1568">
+              <caret line="85" column="74" selection-start-line="85" selection-start-column="74" selection-end-line="85" selection-end-column="74" />
               <folding>
-                <element signature="e#0#2837#0" expanded="true" />
+                <element signature="e#0#2802#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="e#1832#1833#0" expanded="true" />
                 <element signature="e#1863#1864#0" expanded="true" />
                 <element signature="e#2225#2226#0" expanded="true" />
                 <element signature="e#2269#2270#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Java8Lexer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8Lexer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="444" max-vertical-offset="8496">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -779,12 +769,12 @@
       <workItem from="1424776776539" duration="2247000" />
       <workItem from="1424851279401" duration="7826000" />
       <workItem from="1424945748816" duration="592000" />
-      <workItem from="1424948272106" duration="6623000" />
+      <workItem from="1424948272106" duration="6660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27916000" />
+    <option name="totallyTimeSpent" value="27953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -1492,7 +1482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8Lexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="8496">
+        <state vertical-scroll-proportion="0.15498155" vertical-offset="156" max-vertical-offset="8496">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
@@ -1500,10 +1490,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61623615" vertical-offset="1026" max-vertical-offset="1568">
-          <caret line="85" column="109" selection-start-line="85" selection-start-column="109" selection-end-line="85" selection-end-column="109" />
+        <state vertical-scroll-proportion="0.7896679" vertical-offset="932" max-vertical-offset="1568">
+          <caret line="85" column="74" selection-start-line="85" selection-start-column="74" selection-end-line="85" selection-end-column="74" />
           <folding>
-            <element signature="e#0#2837#0" expanded="true" />
+            <element signature="e#0#2802#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#1832#1833#0" expanded="true" />
             <element signature="e#1863#1864#0" expanded="true" />
