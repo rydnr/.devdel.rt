@@ -58,7 +58,7 @@
       <file leaf-file-name="ASTHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1148" max-vertical-offset="1920">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1340" max-vertical-offset="1920">
               <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding>
                 <element signature="e#0#3353#0" expanded="true" />
@@ -81,10 +81,10 @@
       <file leaf-file-name="ASTHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7896679" vertical-offset="1140" max-vertical-offset="1776">
-              <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.61623615" vertical-offset="1154" max-vertical-offset="1696">
+              <caret line="93" column="58" selection-start-line="93" selection-start-column="58" selection-end-line="93" selection-end-column="58" />
               <folding>
-                <element signature="e#0#3683#0" expanded="true" />
+                <element signature="e#0#3292#0" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="e#2078#2079#0" expanded="true" />
                 <element signature="e#2109#2110#0" expanded="true" />
@@ -767,12 +767,12 @@
       <workItem from="1424776776539" duration="2247000" />
       <workItem from="1424851279401" duration="7826000" />
       <workItem from="1424945748816" duration="592000" />
-      <workItem from="1424948272106" duration="9924000" />
+      <workItem from="1424948272106" duration="10254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31217000" />
+    <option name="totallyTimeSpent" value="31547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -1490,10 +1490,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7896679" vertical-offset="1140" max-vertical-offset="1776">
-          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.61623615" vertical-offset="1154" max-vertical-offset="1696">
+          <caret line="93" column="58" selection-start-line="93" selection-start-column="58" selection-end-line="93" selection-end-column="58" />
           <folding>
-            <element signature="e#0#3683#0" expanded="true" />
+            <element signature="e#0#3292#0" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="e#2078#2079#0" expanded="true" />
             <element signature="e#2109#2110#0" expanded="true" />
