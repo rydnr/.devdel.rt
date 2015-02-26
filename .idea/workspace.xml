@@ -92,8 +92,8 @@
       <file leaf-file-name="ASTHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.58441556" vertical-offset="580" max-vertical-offset="1504">
-              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="86" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.5497835" vertical-offset="580" max-vertical-offset="1504">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
               <folding>
                 <element signature="e#0#2458#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -1928,12 +1928,12 @@
       <workItem from="1424776776539" duration="2247000" />
       <workItem from="1424851279401" duration="7826000" />
       <workItem from="1424945748816" duration="592000" />
-      <workItem from="1424948272106" duration="1875000" />
+      <workItem from="1424948272106" duration="1908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23168000" />
+    <option name="totallyTimeSpent" value="23201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -3944,8 +3944,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58441556" vertical-offset="580" max-vertical-offset="1504">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="86" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.5497835" vertical-offset="580" max-vertical-offset="1504">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
           <folding>
             <element signature="e#0#2458#0" expanded="true" />
             <element signature="imports" expanded="true" />
