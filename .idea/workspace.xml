@@ -60,12 +60,9 @@
       <file leaf-file-name="ASTHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="560" max-vertical-offset="1136">
+            <state vertical-scroll-proportion="0.0" vertical-offset="232" max-vertical-offset="1136">
               <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#3353#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,24 +90,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringTemplateCSSParserTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringTemplateCSSParserTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/parser/StringTemplateCSSParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38938054" vertical-offset="0" max-vertical-offset="904">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Java8ParserTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Java8ParserTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="480">
+            <state vertical-scroll-proportion="0.3539823" vertical-offset="0" max-vertical-offset="904">
               <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -2146,12 +2141,12 @@
       <workItem from="1424948272106" duration="11185000" />
       <workItem from="1425024496524" duration="808000" />
       <workItem from="1425188811326" duration="686000" />
-      <workItem from="1425285808231" duration="2610000" />
+      <workItem from="1425285808231" duration="2840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36582000" />
+    <option name="totallyTimeSpent" value="36812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="20" width="1914" height="1054" extended-state="0" />
@@ -3871,27 +3866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="480">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1164" max-vertical-offset="1920">
-          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3353#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="419" max-vertical-offset="1552">
@@ -3905,8 +3879,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/parser/StringTemplateCSSParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38938054" vertical-offset="0" max-vertical-offset="904">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="704">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1164" max-vertical-offset="1920">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3539823" vertical-offset="0" max-vertical-offset="904">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
           <folding />
         </state>
       </provider>
