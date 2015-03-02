@@ -120,8 +120,8 @@
       <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="904">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="904">
+              <caret line="59" column="38" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               <folding>
                 <element signature="e#1720#1728#0" expanded="true" />
                 <element signature="e#1792#1793#0" expanded="true" />
@@ -3979,8 +3979,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26548672" vertical-offset="0" max-vertical-offset="904">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="71" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.30088496" vertical-offset="0" max-vertical-offset="904">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
           <folding>
             <element signature="e#1720#1728#0" expanded="true" />
             <element signature="e#1792#1793#0" expanded="true" />
