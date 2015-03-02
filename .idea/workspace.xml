@@ -107,8 +107,8 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15929204" vertical-offset="0" max-vertical-offset="904">
-              <caret line="50" column="63" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="63" />
+            <state vertical-scroll-proportion="0.053097345" vertical-offset="0" max-vertical-offset="928">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -2172,12 +2172,12 @@
       <workItem from="1424948272106" duration="11185000" />
       <workItem from="1425024496524" duration="808000" />
       <workItem from="1425188811326" duration="686000" />
-      <workItem from="1425285808231" duration="4154000" />
+      <workItem from="1425285808231" duration="4177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38126000" />
+    <option name="totallyTimeSpent" value="38149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="20" width="1914" height="1054" extended-state="0" />
@@ -3932,8 +3932,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15929204" vertical-offset="0" max-vertical-offset="904">
-          <caret line="50" column="63" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="63" />
+        <state vertical-scroll-proportion="0.053097345" vertical-offset="0" max-vertical-offset="928">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
