@@ -59,19 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ASTHelperTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/ASTHelperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="232" max-vertical-offset="1136">
-              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#3353#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ASTHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,8 +117,8 @@
       <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2805907" vertical-offset="1355" max-vertical-offset="2272">
-              <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="1634" max-vertical-offset="2272">
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
                 <element signature="e#0#4043#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -140,24 +127,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="XPath.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3.jar!/org/antlr/v4/runtime/tree/xpath/XPath.class">
+      <file leaf-file-name="XPath.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/xpath/XPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.48" vertical-offset="1646" max-vertical-offset="2368">
-              <caret line="141" column="40" selection-start-line="141" selection-start-column="40" selection-end-line="141" selection-end-column="40" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="2921" max-vertical-offset="3408">
+              <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+              <folding>
+                <element signature="e#6025#6036#0" expanded="true" />
+                <element signature="e#6155#6166#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Java8ParserTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/java8/parser/Java8ParserTest.java">
+      <file leaf-file-name="XPathRuleAnywhereElement.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/xpath/XPathRuleAnywhereElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="496">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="e#561#562#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trees.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/Trees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2030" max-vertical-offset="2944">
+              <caret line="186" column="0" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+              <folding>
+                <element signature="e#6687#6698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuleContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/RuleContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1358" max-vertical-offset="3376">
+              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1036,12 +1048,12 @@
       <workItem from="1425024496524" duration="808000" />
       <workItem from="1425188811326" duration="686000" />
       <workItem from="1425285808231" duration="8749000" />
-      <workItem from="1425365967917" duration="5995000" />
+      <workItem from="1425365967917" duration="6384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48716000" />
+    <option name="totallyTimeSpent" value="49105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1920" height="1080" extended-state="0" />
@@ -1151,34 +1163,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/acmsl/devdel/DevDelGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2176">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="12832" max-vertical-offset="13056">
-          <caret line="852" column="55" selection-start-line="852" selection-start-column="46" selection-end-line="852" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotatedGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="6812" max-vertical-offset="8368">
-          <caret line="528" column="52" selection-start-line="528" selection-start-column="52" selection-end-line="528" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/compiler/CompiledST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2752" max-vertical-offset="3968">
-          <caret line="204" column="16" selection-start-line="204" selection-start-column="16" selection-end-line="204" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="4016">
@@ -2786,14 +2770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3.jar!/org/antlr/v4/runtime/tree/xpath/XPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.48" vertical-offset="1646" max-vertical-offset="2368">
-          <caret line="141" column="40" selection-start-line="141" selection-start-column="40" selection-end-line="141" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../antlr4/tool/src/org/antlr/v4/tool/ast/GrammarAST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32854208" vertical-offset="0" max-vertical-offset="3744">
@@ -2802,10 +2778,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3.jar!/org/antlr/v4/runtime/tree/xpath/XPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.96" vertical-offset="1659" max-vertical-offset="2368">
+          <caret line="141" column="40" selection-start-line="141" selection-start-column="40" selection-end-line="141" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/RuleContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1358" max-vertical-offset="3376">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/Trees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2030" max-vertical-offset="2944">
+          <caret line="186" column="0" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+          <folding>
+            <element signature="e#6687#6698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/xpath/XPathRuleAnywhereElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="400">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#561#562#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/xpath/XPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2921" max-vertical-offset="3408">
+          <caret line="213" column="0" selection-start-line="213" selection-start-column="0" selection-end-line="213" selection-end-column="0" />
+          <folding>
+            <element signature="e#6025#6036#0" expanded="true" />
+            <element signature="e#6155#6166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2805907" vertical-offset="1355" max-vertical-offset="2272">
-          <caret line="96" column="24" selection-start-line="96" selection-start-column="24" selection-end-line="96" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="1634" max-vertical-offset="2272">
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding>
             <element signature="e#0#4043#0" expanded="true" />
             <element signature="imports" expanded="true" />
