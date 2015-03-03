@@ -105,7 +105,7 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6350211" vertical-offset="1321" max-vertical-offset="3180">
+            <state vertical-scroll-proportion="1.0105485" vertical-offset="541" max-vertical-offset="3180">
               <caret line="51" column="25" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
               <folding>
                 <element signature="e#0#4593#0" expanded="true" />
@@ -1053,12 +1053,12 @@
       <workItem from="1425024496524" duration="808000" />
       <workItem from="1425188811326" duration="686000" />
       <workItem from="1425285808231" duration="8749000" />
-      <workItem from="1425365967917" duration="11942000" />
+      <workItem from="1425365967917" duration="12298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54663000" />
+    <option name="totallyTimeSpent" value="55019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1920" height="1080" extended-state="0" />
@@ -2835,7 +2835,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6350211" vertical-offset="1321" max-vertical-offset="3180">
+        <state vertical-scroll-proportion="1.0105485" vertical-offset="541" max-vertical-offset="3180">
           <caret line="51" column="25" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
           <folding>
             <element signature="e#0#4593#0" expanded="true" />
