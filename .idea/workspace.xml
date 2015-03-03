@@ -119,7 +119,7 @@
       <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6624473" vertical-offset="1542" max-vertical-offset="2688">
+            <state vertical-scroll-proportion="0.9662447" vertical-offset="1398" max-vertical-offset="2688">
               <caret line="119" column="69" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="69" />
               <folding>
                 <element signature="e#0#4929#0" expanded="true" />
@@ -1051,12 +1051,12 @@
       <workItem from="1425024496524" duration="808000" />
       <workItem from="1425188811326" duration="686000" />
       <workItem from="1425285808231" duration="8749000" />
-      <workItem from="1425365967917" duration="10149000" />
+      <workItem from="1425365967917" duration="10755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52870000" />
+    <option name="totallyTimeSpent" value="53476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1920" height="1080" extended-state="0" />
@@ -2832,7 +2832,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6624473" vertical-offset="1542" max-vertical-offset="2688">
+        <state vertical-scroll-proportion="0.9662447" vertical-offset="1398" max-vertical-offset="2688">
           <caret line="119" column="69" selection-start-line="119" selection-start-column="69" selection-end-line="119" selection-end-column="69" />
           <folding>
             <element signature="e#0#4929#0" expanded="true" />
