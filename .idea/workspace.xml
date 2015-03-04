@@ -109,10 +109,10 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5670996" vertical-offset="1940" max-vertical-offset="3120">
-              <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.5670996" vertical-offset="1940" max-vertical-offset="3104">
+              <caret line="157" column="2" selection-start-line="157" selection-start-column="2" selection-end-line="157" selection-end-column="2" />
               <folding>
-                <element signature="e#0#5982#0" expanded="true" />
+                <element signature="e#0#5972#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -1087,12 +1087,12 @@
       <workItem from="1425188811326" duration="686000" />
       <workItem from="1425285808231" duration="8749000" />
       <workItem from="1425365967917" duration="12502000" />
-      <workItem from="1425483551646" duration="1919000" />
+      <workItem from="1425483551646" duration="1949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57142000" />
+    <option name="totallyTimeSpent" value="57172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -2897,10 +2897,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5670996" vertical-offset="1940" max-vertical-offset="3120">
-          <caret line="157" column="36" selection-start-line="157" selection-start-column="36" selection-end-line="157" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.5670996" vertical-offset="1940" max-vertical-offset="3104">
+          <caret line="157" column="2" selection-start-line="157" selection-start-column="2" selection-end-line="157" selection-end-column="2" />
           <folding>
-            <element signature="e#0#5982#0" expanded="true" />
+            <element signature="e#0#5972#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
