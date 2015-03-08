@@ -57,16 +57,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="AbstractParseTreeVisitor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2128">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ParseTree.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/ParseTree.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,12 +107,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParseTreeVisitor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ParseTreeVisitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/ParseTreeVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5225225" vertical-offset="0" max-vertical-offset="888">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
               <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractParseTreeVisitor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21621622" vertical-offset="0" max-vertical-offset="2128">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <element signature="e#1842#1843#0" expanded="true" />
+                <element signature="e#1873#1874#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1030,12 +1033,12 @@
       <workItem from="1425665817527" duration="414000" />
       <workItem from="1425708692537" duration="623000" />
       <workItem from="1425755095396" duration="1154000" />
-      <workItem from="1425797264831" duration="1279000" />
+      <workItem from="1425797264831" duration="1297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64490000" />
+    <option name="totallyTimeSpent" value="64508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="36" width="1914" height="1038" extended-state="0" />
@@ -1145,13 +1148,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/ST4-rydnr/latest-SNAPSHOT/ST4-rydnr-latest-SNAPSHOT.jar!/org/stringtemplate/v4/STAnnotatedGroup.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.04" vertical-offset="2640" max-vertical-offset="3952">
-          <caret line="242" column="48" selection-start-line="242" selection-start-column="48" selection-end-line="242" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="12583" max-vertical-offset="13088">
@@ -1586,9 +1582,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/ParseTreeVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5225225" vertical-offset="0" max-vertical-offset="888">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="864">
           <caret line="57" column="6" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21621622" vertical-offset="0" max-vertical-offset="2128">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1873#1874#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
