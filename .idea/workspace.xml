@@ -162,8 +162,8 @@
       <file leaf-file-name="AbstractParseTreeVisitor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="2128">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.27705628" vertical-offset="192" max-vertical-offset="2128">
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="35" />
               <folding>
                 <element signature="e#1842#1843#0" expanded="true" />
                 <element signature="e#1873#1874#0" expanded="true" />
@@ -1094,12 +1094,12 @@
       <workItem from="1425913681951" duration="92000" />
       <workItem from="1425986420043" duration="633000" />
       <workItem from="1426064150038" duration="627000" />
-      <workItem from="1426066647811" duration="594000" />
+      <workItem from="1426066647811" duration="609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67672000" />
+    <option name="totallyTimeSpent" value="67687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -1650,8 +1650,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="2128">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.27705628" vertical-offset="192" max-vertical-offset="2128">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="35" />
           <folding>
             <element signature="e#1842#1843#0" expanded="true" />
             <element signature="e#1873#1874#0" expanded="true" />
