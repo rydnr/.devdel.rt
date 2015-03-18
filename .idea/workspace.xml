@@ -12,6 +12,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devdel.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" afterPath="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotated.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
@@ -162,8 +163,8 @@
       <file leaf-file-name="AbstractParseTreeVisitor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27556512" vertical-offset="160" max-vertical-offset="2096">
-              <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+            <state vertical-scroll-proportion="0.27556512" vertical-offset="160" max-vertical-offset="2080">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -1096,12 +1097,12 @@
       <workItem from="1426264585911" duration="857000" />
       <workItem from="1426403622595" duration="465000" />
       <workItem from="1426588383049" duration="368000" />
-      <workItem from="1426669680498" duration="1853000" />
+      <workItem from="1426669680498" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73656000" />
+    <option name="totallyTimeSpent" value="73672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1674" height="1044" extended-state="0" />
@@ -1652,8 +1653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27556512" vertical-offset="160" max-vertical-offset="2096">
-          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.27556512" vertical-offset="160" max-vertical-offset="2080">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
           <folding />
         </state>
       </provider>
