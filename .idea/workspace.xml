@@ -158,7 +158,7 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6971609" vertical-offset="1846" max-vertical-offset="2480">
+            <state vertical-scroll-proportion="1.9085174" vertical-offset="1078" max-vertical-offset="2480">
               <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
               <folding />
             </state>
@@ -916,12 +916,12 @@
       <workItem from="1426403622595" duration="465000" />
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
-      <workItem from="1426769408832" duration="712000" />
+      <workItem from="1426769408832" duration="1273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75620000" />
+    <option name="totallyTimeSpent" value="76181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -1480,7 +1480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6971609" vertical-offset="1846" max-vertical-offset="2480">
+        <state vertical-scroll-proportion="1.9085174" vertical-offset="1078" max-vertical-offset="2480">
           <caret line="193" column="0" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
           <folding />
         </state>
