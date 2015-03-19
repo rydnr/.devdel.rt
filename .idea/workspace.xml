@@ -843,9 +843,7 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method>
-        <option name="Make" enabled="false" />
-      </method>
+      <method />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.DevDelGeneratorTest" />
@@ -902,12 +900,12 @@
       <workItem from="1426403622595" duration="465000" />
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
-      <workItem from="1426769408832" duration="2924000" />
+      <workItem from="1426769408832" duration="2947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77832000" />
+    <option name="totallyTimeSpent" value="77855000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
