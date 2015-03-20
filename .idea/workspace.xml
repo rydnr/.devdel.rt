@@ -70,22 +70,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1351" max-vertical-offset="1840">
-              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6400818" vertical-offset="1351" max-vertical-offset="1904">
+              <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
               <folding>
-                <element signature="e#0#3963#0" expanded="true" />
+                <element signature="e#0#4139#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectorMatchVisitorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectorMatchVisitorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6728016" vertical-offset="407" max-vertical-offset="896">
+            <state vertical-scroll-proportion="0.0" vertical-offset="407" max-vertical-offset="896">
               <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
               <folding />
             </state>
@@ -1484,9 +1484,9 @@
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
         <option value="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
-        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java" />
+        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java" />
       </list>
     </option>
   </component>
@@ -2208,12 +2208,12 @@
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
       <workItem from="1426769408832" duration="5323000" />
-      <workItem from="1426831746094" duration="2906000" />
+      <workItem from="1426831746094" duration="3224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83137000" />
+    <option name="totallyTimeSpent" value="83455000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="36" width="1914" height="1038" extended-state="0" />
@@ -4025,21 +4025,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1351" max-vertical-offset="1840">
-          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#3963#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="407" max-vertical-offset="896">
+          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6728016" vertical-offset="407" max-vertical-offset="896">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.6400818" vertical-offset="1351" max-vertical-offset="1904">
+          <caret line="115" column="13" selection-start-line="115" selection-start-column="13" selection-end-line="115" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#4139#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
