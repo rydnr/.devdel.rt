@@ -73,8 +73,8 @@
       <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.85685074" vertical-offset="1373" max-vertical-offset="2640">
-              <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.33333334" vertical-offset="2077" max-vertical-offset="2640">
+              <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
               <folding>
                 <element signature="e#0#5145#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -101,8 +101,8 @@
       <file leaf-file-name="AbstractParseTreeVisitor.java" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="2160">
-              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="2160">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
                 <element signature="e#1894#1895#0" expanded="true" />
                 <element signature="e#1925#1926#0" expanded="true" />
@@ -114,8 +114,8 @@
       <file leaf-file-name="Java8Parser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8Parser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="34178" max-vertical-offset="276976">
-              <caret line="2313" column="0" selection-start-line="2313" selection-start-column="0" selection-end-line="2313" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="35410" max-vertical-offset="276976">
+              <caret line="2398" column="0" selection-start-line="2398" selection-start-column="0" selection-end-line="2398" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,8 +157,8 @@
       <file leaf-file-name="Java8BaseVisitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8BaseVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="11282" max-vertical-offset="30624">
-              <caret line="716" column="0" selection-start-line="716" selection-start-column="0" selection-end-line="716" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="24722" max-vertical-offset="30624">
+              <caret line="1556" column="0" selection-start-line="1556" selection-start-column="0" selection-end-line="1556" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -933,16 +933,16 @@
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
       <workItem from="1426769408832" duration="5323000" />
-      <workItem from="1426831746094" duration="5433000" />
+      <workItem from="1426831746094" duration="5495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85664000" />
+    <option name="totallyTimeSpent" value="85726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="36" width="1914" height="1038" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -955,7 +955,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1340812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4561774" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4561774" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Log4jMonitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1456,46 +1456,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2237" max-vertical-offset="3088">
-          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1741" max-vertical-offset="2384">
           <caret line="181" column="0" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8Parser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34178" max-vertical-offset="276976">
-          <caret line="2313" column="0" selection-start-line="2313" selection-start-column="0" selection-end-line="2313" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8BaseVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="11282" max-vertical-offset="30624">
-          <caret line="716" column="0" selection-start-line="716" selection-start-column="0" selection-end-line="716" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="381" max-vertical-offset="2160">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-          <folding>
-            <element signature="e#1894#1895#0" expanded="true" />
-            <element signature="e#1925#1926#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1507,10 +1472,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2237" max-vertical-offset="3088">
+          <caret line="201" column="0" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="2160">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#1894#1895#0" expanded="true" />
+            <element signature="e#1925#1926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="35410" max-vertical-offset="276976">
+          <caret line="2398" column="0" selection-start-line="2398" selection-start-column="0" selection-end-line="2398" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/target/generated-sources/org/acmsl/javacss/java8/parser/Java8BaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="24722" max-vertical-offset="30624">
+          <caret line="1556" column="0" selection-start-line="1556" selection-start-column="0" selection-end-line="1556" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85685074" vertical-offset="1373" max-vertical-offset="2640">
-          <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2077" max-vertical-offset="2640">
+          <caret line="140" column="0" selection-start-line="140" selection-start-column="0" selection-end-line="140" selection-end-column="0" />
           <folding>
             <element signature="e#0#5145#0" expanded="true" />
             <element signature="imports" expanded="true" />
