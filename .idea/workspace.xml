@@ -94,10 +94,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4446281" vertical-offset="1235" max-vertical-offset="1840">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1235" max-vertical-offset="1840">
               <caret line="105" column="26" selection-start-line="103" selection-start-column="0" selection-end-line="116" selection-end-column="9" />
               <folding>
                 <element signature="e#0#3963#0" expanded="true" />
@@ -106,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectorMatchVisitorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SelectorMatchVisitorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="896">
-              <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.94710743" vertical-offset="227" max-vertical-offset="896">
+              <caret line="103" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2214,12 +2214,12 @@
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
       <workItem from="1426769408832" duration="5323000" />
-      <workItem from="1426831746094" duration="1945000" />
+      <workItem from="1426831746094" duration="2010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82176000" />
+    <option name="totallyTimeSpent" value="82241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="36" width="1914" height="1038" extended-state="0" />
@@ -4022,21 +4022,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="896">
-          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4446281" vertical-offset="1235" max-vertical-offset="1840">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1235" max-vertical-offset="1840">
           <caret line="105" column="26" selection-start-line="103" selection-start-column="0" selection-end-line="116" selection-end-column="9" />
           <folding>
             <element signature="e#0#3963#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.94710743" vertical-offset="227" max-vertical-offset="896">
+          <caret line="103" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
