@@ -97,8 +97,8 @@
       <file leaf-file-name="SelectorMatchVisitor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1235" max-vertical-offset="1840">
-              <caret line="105" column="26" selection-start-line="103" selection-start-column="0" selection-end-line="116" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1351" max-vertical-offset="1840">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
               <folding>
                 <element signature="e#0#3963#0" expanded="true" />
               </folding>
@@ -109,8 +109,8 @@
       <file leaf-file-name="SelectorMatchVisitorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.07933884" vertical-offset="288" max-vertical-offset="896">
-              <caret line="68" column="42" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.6728016" vertical-offset="407" max-vertical-offset="896">
+              <caret line="99" column="56" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -2220,12 +2220,12 @@
       <workItem from="1426588383049" duration="368000" />
       <workItem from="1426669680498" duration="3105000" />
       <workItem from="1426769408832" duration="5323000" />
-      <workItem from="1426831746094" duration="2779000" />
+      <workItem from="1426831746094" duration="2859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83010000" />
+    <option name="totallyTimeSpent" value="83090000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="36" width="1914" height="1038" extended-state="0" />
@@ -2242,7 +2242,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1340812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4569055" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4561774" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Log4jMonitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2250,7 +2250,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3252376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3336853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3336853" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27136752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -4036,8 +4036,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1235" max-vertical-offset="1840">
-          <caret line="105" column="26" selection-start-line="103" selection-start-column="0" selection-end-line="116" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1351" max-vertical-offset="1840">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
           <folding>
             <element signature="e#0#3963#0" expanded="true" />
           </folding>
@@ -4046,8 +4046,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.07933884" vertical-offset="288" max-vertical-offset="896">
-          <caret line="68" column="42" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.6728016" vertical-offset="407" max-vertical-offset="896">
+          <caret line="99" column="56" selection-start-line="99" selection-start-column="56" selection-end-line="99" selection-end-column="56" />
           <folding />
         </state>
       </provider>
