@@ -5,7 +5,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_ST4_rydnr_latest_SNAPSHOT.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
@@ -2245,12 +2244,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="481000" />
+      <workItem from="1427361182394" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98496000" />
+    <option name="totallyTimeSpent" value="98572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
