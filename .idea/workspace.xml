@@ -14,6 +14,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devdel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../java-commons/java-commons.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" afterPath="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/resources/org/acmsl/javacss/JavaCSS.org" />
@@ -21,6 +22,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java" afterPath="$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" afterPath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../antlr4/antlr4.iml" afterPath="$PROJECT_DIR$/../antlr4/antlr4.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/pom.xml" afterPath="$PROJECT_DIR$/../JavaCSS/pom.xml" />
@@ -60,11 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.332">
-              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="130" column="62" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringUtils.class" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringUtils.class" pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/org/acmsl/commons/utils/StringUtils.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.6">
-              <caret line="337" column="22" selection-start-line="337" selection-start-column="22" selection-end-line="337" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.3326316">
+              <caret line="318" column="18" selection-start-line="318" selection-start-column="18" selection-end-line="318" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -218,7 +220,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JavaCSS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -1071,16 +1073,16 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="7549000" />
+      <workItem from="1427361182394" duration="7586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105564000" />
+    <option name="totallyTimeSpent" value="105601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -2908,14 +2910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/org/acmsl/commons/utils/StringUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.6">
-          <caret line="337" column="22" selection-start-line="337" selection-start-column="22" selection-end-line="337" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2930,11 +2924,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.332">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="62" selection-start-line="130" selection-start-column="62" selection-end-line="130" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/org/acmsl/commons/utils/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3326316">
+          <caret line="318" column="18" selection-start-line="318" selection-start-column="18" selection-end-line="318" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2990,7 +2992,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>antlr4</last-edited>
+          <last-edited>acmsl-commons</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
