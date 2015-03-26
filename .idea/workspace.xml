@@ -74,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.332">
-              <caret line="803" column="0" selection-start-line="803" selection-start-column="0" selection-end-line="803" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="801" column="0" selection-start-line="801" selection-start-column="0" selection-end-line="801" selection-end-column="0" />
               <folding>
                 <element signature="e#0#68330#0" expanded="false" />
                 <element signature="imports" expanded="false" />
@@ -94,12 +94,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringValidator.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringValidator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.648">
+              <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding>
+                <element signature="e#2344#2345#0" expanded="true" />
                 <element signature="e#2410#2411#0" expanded="true" />
               </folding>
             </state>
@@ -900,12 +901,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="8086000" />
+      <workItem from="1427361182394" duration="8141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106101000" />
+    <option name="totallyTimeSpent" value="106156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2766,20 +2767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding>
-            <element signature="e#2410#2411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.332">
-          <caret line="803" column="0" selection-start-line="803" selection-start-column="0" selection-end-line="803" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="801" column="0" selection-start-line="801" selection-start-column="0" selection-end-line="801" selection-end-column="0" />
           <folding>
             <element signature="e#0#68330#0" expanded="false" />
             <element signature="imports" expanded="false" />
@@ -2790,6 +2781,17 @@
             <element signature="e#13777#13804#0" expanded="false" />
             <element signature="e#14357#14384#0" expanded="false" />
             <element signature="e#18064#18091#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.648">
+          <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+          <folding>
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2410#2411#0" expanded="true" />
           </folding>
         </state>
       </provider>
