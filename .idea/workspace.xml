@@ -111,9 +111,9 @@
         <entry file="file://$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="609" column="0" selection-start-line="609" selection-start-column="0" selection-end-line="609" selection-end-column="0" />
+              <caret line="611" column="0" selection-start-line="611" selection-start-column="0" selection-end-line="611" selection-end-column="0" />
               <folding>
-                <element signature="e#0#18538#0" expanded="false" />
+                <element signature="e#0#18595#0" expanded="false" />
                 <element signature="imports" expanded="false" />
               </folding>
             </state>
@@ -901,12 +901,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="8141000" />
+      <workItem from="1427361182394" duration="8161000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106156000" />
+    <option name="totallyTimeSpent" value="106176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2759,9 +2759,9 @@
     <entry file="file://$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="609" column="0" selection-start-line="609" selection-start-column="0" selection-end-line="609" selection-end-column="0" />
+          <caret line="611" column="0" selection-start-line="611" selection-start-column="0" selection-end-line="611" selection-end-column="0" />
           <folding>
-            <element signature="e#0#18538#0" expanded="false" />
+            <element signature="e#0#18595#0" expanded="false" />
             <element signature="imports" expanded="false" />
           </folding>
         </state>
