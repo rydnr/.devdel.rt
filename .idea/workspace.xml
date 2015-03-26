@@ -21,8 +21,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" afterPath="$PROJECT_DIR$/../stringtemplate4/src/org/stringtemplate/v4/STAnnotation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringUtils.java" afterPath="$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java" afterPath="$PROJECT_DIR$/../java-commons/src/test/java/org/acmsl/commons/utils/StringUtilsTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" afterPath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../antlr4/antlr4.iml" afterPath="$PROJECT_DIR$/../antlr4/antlr4.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/pom.xml" afterPath="$PROJECT_DIR$/../JavaCSS/pom.xml" />
@@ -925,12 +923,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="8200000" />
+      <workItem from="1427361182394" duration="8263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106215000" />
+    <option name="totallyTimeSpent" value="106278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
