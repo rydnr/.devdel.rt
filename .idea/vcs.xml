@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../JavaCSS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../antlr4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../java-commons" vcs="Git" />
   </component>
 </project>
