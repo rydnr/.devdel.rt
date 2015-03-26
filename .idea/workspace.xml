@@ -134,12 +134,12 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1987076">
-              <caret line="120" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48303714">
+              <caret line="143" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
-                <element signature="e#5053#5054#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-                <element signature="e#8163#8193#1" expanded="true" />
+                <element signature="e#5045#5046#0" expanded="true" />
+                <element signature="e#5090#5091#0" expanded="true" />
+                <element signature="e#8155#8185#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,10 +201,10 @@
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Css.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
-        <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
         <option value="$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/org/acmsl/commons/utils/StringValidator.class" />
         <option value="$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/regexpplugin/gnuregexp/MalformedPatternExceptionGNUAdapter.java" />
         <option value="$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/utils/StringUtils.java" />
+        <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
       </list>
     </option>
   </component>
@@ -864,12 +864,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="10188000" />
+      <workItem from="1427361182394" duration="10235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108203000" />
+    <option name="totallyTimeSpent" value="108250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -960,7 +960,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java</url>
-          <line>229</line>
+          <line>228</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
@@ -972,13 +972,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java</url>
-          <line>214</line>
+          <line>213</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java</url>
-          <line>248</line>
+          <line>247</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
@@ -2771,12 +2771,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1987076">
-          <caret line="120" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48303714">
+          <caret line="143" column="0" selection-start-line="142" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
           <folding>
-            <element signature="e#5053#5054#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#8163#8193#1" expanded="true" />
+            <element signature="e#5045#5046#0" expanded="true" />
+            <element signature="e#5090#5091#0" expanded="true" />
+            <element signature="e#8155#8185#1" expanded="true" />
           </folding>
         </state>
       </provider>
