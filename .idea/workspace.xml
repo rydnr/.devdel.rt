@@ -139,8 +139,8 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9491256">
-              <caret line="248" column="0" selection-start-line="240" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0763116">
+              <caret line="207" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
               <folding>
                 <element signature="e#5051#5052#0" expanded="true" />
                 <element signature="e#5096#5097#0" expanded="true" />
@@ -1052,12 +1052,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="3329000" />
+      <workItem from="1427361182394" duration="3352000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101344000" />
+    <option name="totallyTimeSpent" value="101367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5520" y="0" width="1914" height="1074" extended-state="0" />
@@ -2884,8 +2884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9491256">
-          <caret line="248" column="0" selection-start-line="240" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0763116">
+          <caret line="207" column="0" selection-start-line="205" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
           <folding>
             <element signature="e#5051#5052#0" expanded="true" />
             <element signature="e#5096#5097#0" expanded="true" />
