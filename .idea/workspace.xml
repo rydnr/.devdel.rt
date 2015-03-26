@@ -23,6 +23,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" afterPath="$PROJECT_DIR$/../stringtemplate4/test/org/stringtemplate/v4/test/annotations/TestSTAnnotatedGroup.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../antlr4/antlr4.iml" afterPath="$PROJECT_DIR$/../antlr4/antlr4.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCSS/pom.xml" afterPath="$PROJECT_DIR$/../JavaCSS/pom.xml" />
     </list>
     <ignored path="devdel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,9 +63,11 @@
       <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41357028">
-              <caret line="108" column="8" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.46526656">
+              <caret line="130" column="108" selection-start-line="130" selection-start-column="108" selection-end-line="130" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="152" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="e#1786#1787#0" expanded="true" />
                 <element signature="e#1812#1813#0" expanded="true" />
@@ -1070,12 +1073,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="6482000" />
+      <workItem from="1427361182394" duration="6626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104497000" />
+    <option name="totallyTimeSpent" value="104641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2863,7 +2866,7 @@
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="152" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="e#1786#1787#0" expanded="true" />
             <element signature="e#1812#1813#0" expanded="true" />
@@ -2917,9 +2920,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41357028">
-          <caret line="108" column="8" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.46526656">
+          <caret line="130" column="108" selection-start-line="130" selection-start-column="108" selection-end-line="130" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
