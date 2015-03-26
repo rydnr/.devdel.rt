@@ -24,12 +24,14 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="devdel" />
+        <module name="java-commons" />
         <module name="javacss" />
         <module name="ST4-rydnr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="devdel" target="1.7" />
+      <module name="java-commons" target="1.5" />
       <module name="javacss" target="1.7" />
       <module name="ST4-rydnr" target="1.5" />
     </bytecodeTargetLevel>
