@@ -6,6 +6,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssAction.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssActionFactory.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/InsertAfterCssActionTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/InsertBeforeCssActionTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
@@ -91,16 +92,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BailErrorStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/BailErrorStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -139,16 +130,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43134087">
+            <state vertical-scroll-proportion="0.0">
               <caret line="64" column="68" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
               <folding>
                 <element signature="e#0#2318#0" expanded="true" />
                 <element signature="e#1949#1950#0" expanded="true" />
                 <element signature="e#1979#1980#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertAfterCssActionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/InsertAfterCssActionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38772213">
+              <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -1002,12 +1003,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="10120000" />
+      <workItem from="1427439775603" duration="10389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122299000" />
+    <option name="totallyTimeSpent" value="122568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -1130,13 +1131,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/ASTHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/java8/parser/MethodHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2459,13 +2453,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43134087">
+        <state vertical-scroll-proportion="0.0">
           <caret line="64" column="68" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
           <folding>
             <element signature="e#0#2318#0" expanded="true" />
             <element signature="e#1949#1950#0" expanded="true" />
             <element signature="e#1979#1980#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/InsertAfterCssActionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38772213">
+          <caret line="54" column="37" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
