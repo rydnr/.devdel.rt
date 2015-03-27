@@ -110,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractCssAction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AbstractCssAction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/AbstractCssAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84491116">
+            <state vertical-scroll-proportion="0.0">
               <caret line="96" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding>
                 <element signature="e#1852#1853#0" expanded="true" />
@@ -125,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.84491116">
+              <caret line="79" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="e#0#2233#0" expanded="true" />
                 <element signature="e#1893#1894#0" expanded="true" />
@@ -1042,12 +1042,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="13089000" />
+      <workItem from="1427439775603" duration="13139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125268000" />
+    <option name="totallyTimeSpent" value="125318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2489,27 +2489,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#2233#0" expanded="true" />
-            <element signature="e#1893#1894#0" expanded="true" />
-            <element signature="e#1919#1920#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/AbstractCssAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84491116">
+        <state vertical-scroll-proportion="0.0">
           <caret line="96" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding>
             <element signature="e#1852#1853#0" expanded="true" />
             <element signature="e#1882#1883#0" expanded="true" />
             <element signature="e#1998#1999#0" expanded="true" />
             <element signature="e#2029#2030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84491116">
+          <caret line="79" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#2233#0" expanded="true" />
+            <element signature="e#1893#1894#0" expanded="true" />
+            <element signature="e#1919#1920#0" expanded="true" />
           </folding>
         </state>
       </provider>
