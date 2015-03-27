@@ -115,13 +115,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CssActionFactoryTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java">
+      <file leaf-file-name="Property.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.638126">
+              <caret line="58" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding>
-                <element signature="e#0#2664#0" expanded="true" />
+                <element signature="e#0#1970#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,13 +137,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06946688">
-              <caret line="53" column="3" selection-start-line="53" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="74" column="27" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
               <folding>
-                <element signature="e#0#2311#0" expanded="true" />
+                <element signature="e#0#2318#0" expanded="true" />
                 <element signature="e#1949#1950#0" expanded="true" />
                 <element signature="e#1979#1980#0" expanded="true" />
               </folding>
@@ -228,7 +228,6 @@
         <option value="$PROJECT_DIR$/../antlr4/runtime/Java/src/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/SelectorMatchVisitorTest.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/SelectorMatchVisitor.java" />
-        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Css.java" />
         <option value="$MAVEN_REPOSITORY$/org/acmsl/java-commons/latest-SNAPSHOT/java-commons-latest-SNAPSHOT.jar!/org/acmsl/commons/utils/StringValidator.class" />
         <option value="$PROJECT_DIR$/../java-commons/src/main/java/org/acmsl/commons/regexpplugin/gnuregexp/MalformedPatternExceptionGNUAdapter.java" />
@@ -239,8 +238,9 @@
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/NullCssAction.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java" />
-        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssActionFactory.java" />
+        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java" />
+        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java" />
       </list>
     </option>
   </component>
@@ -999,12 +999,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="9808000" />
+      <workItem from="1427439775603" duration="10016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121987000" />
+    <option name="totallyTimeSpent" value="122195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2276,16 +2276,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3-sources.jar!/org/antlr/v4/runtime/ParserRuleContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2454,12 +2444,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06946688">
-          <caret line="53" column="3" selection-start-line="53" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="27" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
           <folding>
-            <element signature="e#0#2311#0" expanded="true" />
+            <element signature="e#0#2318#0" expanded="true" />
             <element signature="e#1949#1950#0" expanded="true" />
             <element signature="e#1979#1980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/Property.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.638126">
+          <caret line="58" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1970#0" expanded="true" />
           </folding>
         </state>
       </provider>
