@@ -971,12 +971,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="6504000" />
+      <workItem from="1427439775603" duration="6608000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118683000" />
+    <option name="totallyTimeSpent" value="118787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="548" width="1914" height="526" extended-state="1" />
@@ -1328,6 +1328,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5256#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#5219#5220#0" expanded="false" />
+            <element signature="e#5252#5253#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1342,6 +1348,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#2401#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1894#1895#0" expanded="true" />
+            <element signature="e#2017#2018#0" expanded="true" />
+            <element signature="e#2049#2050#0" expanded="true" />
+            <element signature="e#2179#2180#0" expanded="true" />
+            <element signature="e#2212#2213#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2397#2398#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
