@@ -6,6 +6,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssAction.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssActionFactory.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
@@ -117,13 +118,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CssActionFactoryTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CssActionFactoryTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87261146">
-              <caret line="79" column="55" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="79" column="54" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
               <folding>
                 <element signature="e#0#2665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.79617834">
+              <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#1705#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -229,6 +242,7 @@
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/NullCssAction.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/CssActionFactory.java" />
         <option value="$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java" />
+        <option value="$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java" />
       </list>
     </option>
   </component>
@@ -899,12 +913,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="4338000" />
+      <workItem from="1427439775603" duration="4436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116517000" />
+    <option name="totallyTimeSpent" value="116615000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -1039,13 +1053,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3.jar!/org/antlr/v4/runtime/BailErrorStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10921501">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.3/antlr4-runtime-4.3.jar!/org/antlr/v4/runtime/ANTLRErrorStrategy.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10921501">
@@ -1443,10 +1450,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87261146">
-          <caret line="79" column="55" selection-start-line="79" selection-start-column="55" selection-end-line="79" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="79" column="54" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
           <folding>
             <element signature="e#0#2665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79617834">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#1705#0" expanded="true" />
           </folding>
         </state>
       </provider>
