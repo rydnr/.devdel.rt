@@ -104,8 +104,8 @@
       <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.652">
-              <caret line="128" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.416">
+              <caret line="62" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#5468#5469#0" expanded="true" />
                 <element signature="e#5513#5514#0" expanded="true" />
@@ -999,12 +999,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="9126000" />
+      <workItem from="1427439775603" duration="9140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121305000" />
+    <option name="totallyTimeSpent" value="121319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -1101,7 +1101,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java</url>
-          <line>257</line>
+          <line>256</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
@@ -1113,7 +1113,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java</url>
-          <line>116</line>
+          <line>115</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
@@ -2454,8 +2454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.652">
-          <caret line="128" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.416">
+          <caret line="62" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="e#5468#5469#0" expanded="true" />
             <element signature="e#5513#5514#0" expanded="true" />
