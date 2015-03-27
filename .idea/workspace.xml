@@ -140,8 +140,8 @@
       <file leaf-file-name="InsertBeforeCssAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.84491116">
-              <caret line="83" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.06946688">
+              <caret line="53" column="3" selection-start-line="53" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
               <folding>
                 <element signature="e#0#2311#0" expanded="true" />
                 <element signature="e#1949#1950#0" expanded="true" />
@@ -999,12 +999,12 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="9737000" />
+      <workItem from="1427439775603" duration="9808000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121916000" />
+    <option name="totallyTimeSpent" value="121987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2454,8 +2454,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/InsertBeforeCssAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84491116">
-          <caret line="83" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.06946688">
+          <caret line="53" column="3" selection-start-line="53" selection-start-column="0" selection-end-line="82" selection-end-column="1" />
           <folding>
             <element signature="e#0#2311#0" expanded="true" />
             <element signature="e#1949#1950#0" expanded="true" />
