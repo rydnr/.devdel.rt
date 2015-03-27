@@ -149,8 +149,8 @@
       <file leaf-file-name="CssActionFactoryTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6203554">
-              <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.4911147">
+              <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -858,12 +858,12 @@
       <workItem from="1427134556095" duration="1196000" />
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
-      <workItem from="1427361182394" duration="14137000" />
+      <workItem from="1427361182394" duration="14154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112152000" />
+    <option name="totallyTimeSpent" value="112169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
@@ -2770,8 +2770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/CssActionFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6203554">
-          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.4911147">
+          <caret line="62" column="52" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
           <folding />
         </state>
       </provider>
