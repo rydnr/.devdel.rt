@@ -67,17 +67,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringTemplateCSSHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="115" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.332">
+              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
-                <element signature="e#0#6550#0" expanded="false" />
-                <element signature="e#2403#2404#0" expanded="false" />
-                <element signature="e#2437#2438#0" expanded="false" />
-                <element signature="e#6219#6220#0" expanded="false" />
-                <element signature="e#6263#6264#0" expanded="false" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2403#2404#0" expanded="true" />
+                <element signature="e#2437#2438#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringTemplateCSSHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55">
-              <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
               <folding>
                 <element signature="e#5059#5060#0" expanded="true" />
                 <element signature="e#5104#5105#0" expanded="true" />
@@ -1006,16 +1004,16 @@
       <workItem from="1427187699623" duration="2623000" />
       <workItem from="1427269301019" duration="659000" />
       <workItem from="1427361182394" duration="14164000" />
-      <workItem from="1427439775603" duration="8376000" />
+      <workItem from="1427439775603" duration="8484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120555000" />
+    <option name="totallyTimeSpent" value="120663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3600" y="16" width="1914" height="1058" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1028,7 +1026,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1340812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45604965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45604965" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Log4jMonitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="BSFConsole" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1323,6 +1321,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#8616#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3896#3897#0" expanded="false" />
+            <element signature="e#3929#3930#0" expanded="false" />
+            <element signature="e#4030#4031#0" expanded="false" />
+            <element signature="e#4060#4061#0" expanded="false" />
+            <element signature="e#4908#4909#0" expanded="false" />
+            <element signature="e#4926#4927#0" expanded="false" />
+            <element signature="e#4968#4969#0" expanded="false" />
+            <element signature="e#4983#4984#0" expanded="false" />
+            <element signature="e#6852#6853#0" expanded="false" />
+            <element signature="e#6897#6898#0" expanded="false" />
+            <element signature="e#7095#7096#0" expanded="false" />
+            <element signature="e#7144#7145#0" expanded="false" />
+            <element signature="e#7188#7189#0" expanded="false" />
+            <element signature="e#7234#7235#0" expanded="false" />
+            <element signature="e#7274#7275#0" expanded="false" />
+            <element signature="e#7335#7336#0" expanded="false" />
+            <element signature="e#7401#7402#0" expanded="false" />
+            <element signature="e#7455#7456#0" expanded="false" />
+            <element signature="e#7522#7523#0" expanded="false" />
+            <element signature="e#7561#7562#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2308,6 +2330,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="176" column="0" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding>
+            <element signature="e#6675#6676#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2365,20 +2390,6 @@
           <folding>
             <element signature="e#0#68332#0" expanded="false" />
             <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="115" column="0" selection-start-line="114" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#6550#0" expanded="false" />
-            <element signature="e#2403#2404#0" expanded="false" />
-            <element signature="e#2437#2438#0" expanded="false" />
-            <element signature="e#6219#6220#0" expanded="false" />
-            <element signature="e#6263#6264#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2455,11 +2466,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCSS/src/test/java/org/acmsl/javacss/css/StringTemplateCSSHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding>
             <element signature="e#5059#5060#0" expanded="true" />
             <element signature="e#5104#5105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCSS/src/main/java/org/acmsl/javacss/css/StringTemplateCSSHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.332">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2403#2404#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
           </folding>
         </state>
       </provider>
